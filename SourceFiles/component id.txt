@@ -1,0 +1,37 @@
+0-capacitor1
+1-capacitor2
+
+2-transistor1
+3-transistor2
+
+4-diode1
+5-dioderev
+
+6-blue connector h
+7-blue connector v
+
+8-opamp1
+8-opamp2rev
+
+10-resistor1
+11-resistor2
+12-resistor3
+
+13-diode2
+14-diode3
+
+15-led1
+16-led2
+
+17-dioderev
+18-dioderev
+
+19-zener medium
+20-zener large
+21-zener small
+22-zenerrev4
+23-zenerrev5
+24-zenerrev6
+
+25- red connector h
+26- red connector v
